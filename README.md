@@ -30,7 +30,7 @@ The Zomato EDA project aims to help data enthusiasts and professionals understan
 
 ## Conclusion
 
-This project provides a comprehensive EDA of the Zomato dataset, offering valuable insights into the food delivery industry. It's a useful resource for anyone looking to deepen their understanding of data analysis and the Zomato dataset.I am Naman Nimble, a fourth-year B.Tech student pursuing Electronics and Communication Engineering at Netaji Subhas University of Technology. My passion lies in data analysis, where I excel in Python programming, conducting thorough exploratory data analysis (EDA), and employing statistical methods to extract valuable insights. Proficient in SQL for data manipulation and management, I also leverage visualization tools like Power BI to present findings effectively. My goal is to harness the power of data to drive informed decision-making and solve complex challenges.
+This project provides a comprehensive EDA of the Zomato dataset, offering valuable insights into the food delivery industry. It's a useful resource for anyone looking to deepen their understanding of data analysis and the Zomato dataset
 ---
 
 **Skills:**
